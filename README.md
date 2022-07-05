@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Satyam Dubey</h1>
 <h3 align="center">A ML/DL/CV explorer from India</h3>
-<img align="right" alt="ML" width="400" src="https://i.pinimg.com/originals/7c/d5/3d/7cd53d36d121d839da9600ca055b01db.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsatyam09&label=Profile%20views&color=0e75b6&style=flat" alt="dsatyam09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsatyam09" alt="dsatyam09" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/7c/d5/3d/7cd53d36d121d839da9600ca055b01db.gif">
 - 🔭 I’m currently working on A Research Paper **Image processing**
 
 - 🌱 I’m currently learning **Machine Vision & Image Processing**
