@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satyam Dubey</h1>
 <h3 align="center">A ML/DL/CV explorer from India</h3>
-<img align="right" alt="coding" height="200" width="250" src="https://c.tenor.com/B8ra2i-OK9QAAAAC/face-recognition.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsatyam09&label=Profile%20views&color=0e75b6&style=flat" alt="dsatyam09" /> </p>
+<img align="right" alt="coding" height="200" width="250" src="https://c.tenor.com/B8ra2i-OK9QAAAAC/face-recognition.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsatyam09" alt="dsatyam09" /></a> </p>
 
