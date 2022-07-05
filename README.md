@@ -3,9 +3,11 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsatyam09&label=Profile%20views&color=0e75b6&style=flat" alt="dsatyam09" /> </p>
-<img align="right" alt="coding" height="200" width="250" src="https://i.pinimg.com/originals/7c/d5/3d/7cd53d36d121d839da9600ca055b01db.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsatyam09" alt="dsatyam09" /></a> </p>
+
+<span class="bhai">
+  <img align="right" alt="coding" height="200" width="250" src="https://c.tenor.com/B8ra2i-OK9QAAAAC/face-recognition.gif">
 
 - 🔭 I’m currently working on A Research Paper **Image processing**
 
@@ -14,7 +16,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/dsatyam09](https://github.com/dsatyam09)
 
 - 📫 How to reach me **dsatyam5302@gmail.com**
-
+</span>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/satyam-dubey-6735331a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-dubey-6735331a6" height="30" width="40" /></a>
