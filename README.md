@@ -1,3 +1,4 @@
+![And The Journey of Machine Begins](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/what-is-machine-learning-header.jpg)
 <h1 align="center">Hi 👋, I'm Satyam Dubey</h1>
 <h3 align="center">A ML/DL/CV explorer from India</h3>
 
