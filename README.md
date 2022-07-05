@@ -1,4 +1,4 @@
-<img src="https://github.com/dsatyam09/Color-Models---RGB-CMY-RGB-HSI-and-RGB-L-a-b/blob/main/wowo.gif" width="1100" height="400">
+<img src="https://github.com/dsatyam09/dsatyam09/blob/main/wowo.gif" width="1100" height="400">
 <span class="haha">
 <h1 align="center">Hi 👋, I'm Satyam Dubey</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsatyam09&label=Profile%20views&color=0e75b6&style=flat" alt="dsatyam09" /> </p>
