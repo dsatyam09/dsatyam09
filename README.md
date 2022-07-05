@@ -1,4 +1,4 @@
-![And The Journey of Machine Begins](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/what-is-machine-learning-header.jpg)
+<img src="https://github.com/dsatyam09/Color-Models---RGB-CMY-RGB-HSI-and-RGB-L-a-b/blob/main/wowo.gif" width="1100" height="400">
 <h1 align="center">Hi 👋, I'm Satyam Dubey</h1>
 <h3 align="center">A ML/DL/CV explorer from India</h3>
 
@@ -10,7 +10,7 @@
 <span class="bhai">
   <img align="right" alt="coding" height="200" width="250" src="https://c.tenor.com/B8ra2i-OK9QAAAAC/face-recognition.gif">
 
-- 🔭 I’m currently working on A Research Paper **Image processing**
+- 🔭 I’m currently working on A Research Paper **in Image processing**
 
 - 🌱 I’m currently learning **Machine Vision & Image Processing**
 
