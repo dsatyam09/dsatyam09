@@ -12,7 +12,7 @@
 <span class="bhai">
   <img align="right" alt="coding" height="200" width="250" src="https://c.tenor.com/B8ra2i-OK9QAAAAC/face-recognition.gif">
 
-- 🔭 I’m currently working on A Research Paper **in Image processing**
+<!-- - 🔭 I’m currently working on A Research Paper **in Image processing** -->
 
 - 🌱 I’m currently learning **Machine Vision & Image Processing**
 
