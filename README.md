@@ -5,7 +5,7 @@
 <h1 align="left">Hi ✌️, </h1>
 <h1 align="center"> I'm Satyam Dubey 👨🏻‍💻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsatyam09&label=Profile%20views&color=0e75b6&style=flat" alt="dsatyam09" /> </p>
-<h3 align="center">A ML/DL/CV explorer from India</h3>
+<h3 align="center"> AI/ML Engineer from India</h3>
 
 
 
@@ -16,10 +16,10 @@
 
 <!-- - 🔭 I’m currently working on A Research Paper **in Image processing** -->
 
-- 🌱 I’m currently working on project on ** Computer Vision & Image Processing**
-- 🌱 I am greatly facinated by vision { computer vision, Augmented Reality and Virtual Reality }.
+- 🌱 I am interested in machine learning and its applications towards other areas, such as systems and computer vision.
+- 🌱 I am greatly facinated working on the maths behind computer vision, Augmented Reality and Virtual Reality.
 - 😽 I had been a research Intern at the Indian Statistical Institue, Kolkata 
-       * Where I was introduced to the world of Image processing and Bioinformatics research.
+       - *Where I was introduced to the world of Image processing and Bioinformatics research*.
 
 - 👨‍💻 All of my projects are available at [https://github.com/dsatyam09](https://github.com/dsatyam09)
 
