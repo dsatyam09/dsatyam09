@@ -1,4 +1,4 @@
-![wowo](https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif)
+![wowo](https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif | width=100)
 <body style="background-color:powderblue;">
 <span class="haha">
 <h1 align="center">Hi 👋, I'm Satyam Dubey</h1>
