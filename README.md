@@ -1,6 +1,6 @@
 ![wowo](https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif) 
 <span class="haha">
-<h1 align="center">Hi 👋, I'm Satyam Dubey</h1>
+<h1 align="left">Hi ✌️, I'm Satyam Dubey   ✌️</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsatyam09&label=Profile%20views&color=0e75b6&style=flat" alt="dsatyam09" /> </p>
 </span>
 <h3 align="center">A ML/DL/CV explorer from India</h3>
@@ -31,5 +31,6 @@
 
 <!-- ![satyam github stats](https://github-readme-stats.vercel.app/api?username=dsatyam09&show_icons=true&theme=radical) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsatyam09&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsatyam09)](https://github.com/dsatyam09/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsatyam09&" alt="dsatyam09" /></p>
