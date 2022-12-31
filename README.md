@@ -1,6 +1,7 @@
 ![wowo](https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif) 
 <span class="haha">
-<h1 align="left">Hi ✌️, I'm Satyam Dubey   ✌️</h1>
+<h1 align="left">Hi ✌️, </h1>
+<h1 align="center"> I'm Satyam Dubey 👨🏻‍💻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsatyam09&label=Profile%20views&color=0e75b6&style=flat" alt="dsatyam09" /> </p>
 </span>
 <h3 align="center">A ML/DL/CV explorer from India</h3>
