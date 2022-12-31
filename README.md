@@ -16,13 +16,15 @@
 
 <!-- - 🔭 I’m currently working on A Research Paper **in Image processing** -->
 
-- 🌱 I’m currently learning **Machine Vision & Image Processing**
+- 🌱 I’m currently working on project on ** Computer Vision & Image Processing**
+- 🌱 I am greatly facinated by vision { computer vision, Augmented Reality and Virtual Reality }.
+- 😽 I had been a research Intern at the Indian Statistical Institue, Kolkata 
+       * Where I was introduced to the world of Image processing and Bioinformatics research.
 
 - 👨‍💻 All of my projects are available at [https://github.com/dsatyam09](https://github.com/dsatyam09)
 
 - 📫 How to reach me **dsatyam5302@gmail.com**
 </span>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
