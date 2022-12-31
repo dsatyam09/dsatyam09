@@ -7,7 +7,7 @@
 
 
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsatyam09" alt="dsatyam09" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsatyam09" alt="dsatyam09" /></a> </p>
 
 <span class="bhai">
   <img align="right" alt="coding" height="200" width="250" src="https://c.tenor.com/B8ra2i-OK9QAAAAC/face-recognition.gif">
