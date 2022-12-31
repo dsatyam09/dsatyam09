@@ -1,4 +1,6 @@
-![wowo](https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif) 
+<!-- ![wowo](https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif)  -->
+<img align="center"  src= "https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif" /> 
+
 <span class="haha">
 <h1 align="left">Hi ✌️, </h1>
 <h1 align="center"> I'm Satyam Dubey 👨🏻‍💻</h1>
