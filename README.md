@@ -31,8 +31,8 @@
 
 
 <!-- ![satyam github stats](https://github-readme-stats.vercel.app/api?username=dsatyam09&show_icons=true&theme=radical) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsatyam09&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsatyam09&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=dsatyam09&count_private=true&show_icons=true&theme=radical" />
+<img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=dsatyam09&count_private=true&layout=compact" /> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsatyam09&" alt="dsatyam09" /></p>
 
