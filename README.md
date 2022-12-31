@@ -1,4 +1,4 @@
-<h1 align="center">![wowo](https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif)</h1>
+<div>[wowo](https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif)</h1> </div>
 <span class="haha">
 <h1 align="center">Hi 👋, I'm Satyam Dubey</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsatyam09&label=Profile%20views&color=0e75b6&style=flat" alt="dsatyam09" /> </p>
