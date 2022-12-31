@@ -33,6 +33,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsatyam09&count_private=true&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsatyam09&" alt="dsatyam09" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsatyam09)(https://github.com/dsatyam09/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsatyam09)](https://github.com/dsatyam09/github-readme-stats)
 
 
