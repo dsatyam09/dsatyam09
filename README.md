@@ -1,5 +1,5 @@
 <!-- ![wowo](https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif)  -->
-<img align="center" width="80%"  src= "https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif" /> 
+<img align="center" width="80%" height="50%"  src= "https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif" /> 
 <br>
 
 <h1 align="left">Hi ✌️, </h1>
