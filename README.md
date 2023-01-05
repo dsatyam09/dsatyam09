@@ -1,10 +1,10 @@
 <!-- ![wowo](https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif)  -->
 <img align="center" width="90%" height="40%"  src= "https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif" /> 
 <br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dsatyam09&label=Profile%20views&color=0e75b6&style=flat" alt="dsatyam09" /> </p>
 <h1 align="left">Hi ✌️, </h1>
 <h1 align="center"> I'm Satyam Dubey 👨🏻‍💻</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dsatyam09&label=Profile%20views&color=0e75b6&style=flat" alt="dsatyam09" /> </p>
+
 <h3 align="center"> AI/ML Engineer from India</h3>
 
 
