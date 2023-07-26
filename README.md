@@ -1,4 +1,4 @@
-<!-- ![wowo](https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif)  -->
+![github_gif](https://github.com/dsatyam09/dsatyam09/assets/88971930/44c6a3f4-b208-41f7-86a2-8436d4f269ba)
 <img align="center" width="90%" height="40%"  src= "https://user-images.githubusercontent.com/88971930/210128309-7861d8ae-6695-4597-a441-1a411cdfc28b.gif" /> 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsatyam09&label=Profile%20views&color=0e75b6&style=flat" alt="dsatyam09" /> </p>
