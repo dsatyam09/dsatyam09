@@ -22,11 +22,17 @@
       - *Where I was introduced to the world of Image processing and Bioinformatics research*.
     </p>
   </div>
-  <div style="flex: 1; text-align: right;">
-    <!-- Your GIF goes here -->
+ <div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: left;">
+    <!-- Your first GIF goes here -->
     <img src="https://media.giphy.com/media/cnE8RvRxoAVXgCIxYV/giphy.gif" width="250"/>
-    <img src="https://media.giphy.com/media/3oEduUJgrJnTH093yw/giphy.gif" width="250"/>
   </div>
+  <div style="flex: 1; text-align: right;">
+    <!-- Your second GIF goes here -->
+    <img src="https://media.giphy.com/media/3oEduUJgrJnTH093yw/giphy.gif" width="300"/>
+  </div>
+</div>
+
 </div>
 
 
