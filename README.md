@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsatyam09" alt="dsatyam09" /></a> </p>
 
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/Hrm0LJNRkPHDkLIHz9/giphy.gif" width="100"/>
-</div>
+<span id="header" align="right">
+  <img src="https://media.giphy.com/media/Hrm0LJNRkPHDkLIHz9/giphy.gif" width="500"/>
+
 
 <!-- - 🔭 I’m currently working on A Research Paper **in Image processing** -->
 
@@ -21,6 +21,7 @@
 - 😽 I had been a research Intern at the Indian Statistical Institue, Kolkata 
        - *Where I was introduced to the world of Image processing and Bioinformatics research*.
 
+</span>
 - 👨‍💻 All of my projects are available at [https://github.com/dsatyam09](https://github.com/dsatyam09)
 
 - 📫 How to reach me **dsatyam5302@gmail.com**
