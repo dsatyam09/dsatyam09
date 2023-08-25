@@ -25,6 +25,7 @@
   <div style="flex: 1; text-align: right;">
     <!-- Your GIF goes here -->
     <img src="https://media.giphy.com/media/cnE8RvRxoAVXgCIxYV/giphy.gif" width="250"/>
+    <img src="https://media.giphy.com/media/3oEduUJgrJnTH093yw/giphy.gif" width="250"/>
   </div>
 </div>
 
