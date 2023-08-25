@@ -10,18 +10,24 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsatyam09" alt="dsatyam09" /></a> </p>
 
-<span id="header" align="right">
-  <img src="https://media.giphy.com/media/Hrm0LJNRkPHDkLIHz9/giphy.gif" width="500"/>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <!-- Your text content goes here -->
+    <p>
+      🌱 I am interested in machine learning and its applications in other areas, such as systems and computer vision.
+      <br>
+      🌱 I am greatly fascinated working on the maths behind computer vision, Augmented Reality, and Virtual Reality.
+      <br>
+      😽 I had been a research Intern at the Indian Statistical Institute, Kolkata 
+      - *Where I was introduced to the world of Image processing and Bioinformatics research*.
+    </p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <!-- Your GIF goes here -->
+    <img src="https://media.giphy.com/media/cnE8RvRxoAVXgCIxYV/giphy.gif" width="330"/>
+  </div>
+</div>
 
-
-<!-- - 🔭 I’m currently working on A Research Paper **in Image processing** -->
-
-- 🌱 I am interested in machine learning and its applications towards other areas, such as systems and computer vision.
-- 🌱 I am greatly facinated working on the maths behind computer vision, Augmented Reality and Virtual Reality.
-- 😽 I had been a research Intern at the Indian Statistical Institue, Kolkata 
-       - *Where I was introduced to the world of Image processing and Bioinformatics research*.
-
-</span>
 - 👨‍💻 All of my projects are available at [https://github.com/dsatyam09](https://github.com/dsatyam09)
 
 - 📫 How to reach me **dsatyam5302@gmail.com**
