@@ -24,9 +24,10 @@
   </div>
   <div style="flex: 1; text-align: right;">
     <!-- Your GIF goes here -->
-    <img src="https://media.giphy.com/media/cnE8RvRxoAVXgCIxYV/giphy.gif" width="230"/>
+    <img src="https://media.giphy.com/media/cnE8RvRxoAVXgCIxYV/giphy.gif" width="250"/>
   </div>
 </div>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/dsatyam09](https://github.com/dsatyam09)
 
