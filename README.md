@@ -10,8 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsatyam09" alt="dsatyam09" /></a> </p>
 
-<span class="bhai">
-[  <img align="right" alt="coding" height="200" width="250" src="https://c.tenor.com/B8ra2i-OK9QAAAAC/face-recognition.gif">](https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif)
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!-- - 🔭 I’m currently working on A Research Paper **in Image processing** -->
 
@@ -23,7 +24,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/dsatyam09](https://github.com/dsatyam09)
 
 - 📫 How to reach me **dsatyam5302@gmail.com**
-</span>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
