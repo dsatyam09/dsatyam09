@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsatyam09" alt="dsatyam09" /></a> </p>
 
 <span class="bhai">
-  <img align="right" alt="coding" height="200" width="250" src="https://c.tenor.com/B8ra2i-OK9QAAAAC/face-recognition.gif">
+[  <img align="right" alt="coding" height="200" width="250" src="https://c.tenor.com/B8ra2i-OK9QAAAAC/face-recognition.gif">](https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif)
 
 <!-- - 🔭 I’m currently working on A Research Paper **in Image processing** -->
 
