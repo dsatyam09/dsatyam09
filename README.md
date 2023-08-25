@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsatyam09" alt="dsatyam09" /></a> </p>
 
 <div id="header" align="right">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Hrm0LJNRkPHDkLIHz9/giphy.gif" width="100"/>
 </div>
 
 <!-- - 🔭 I’m currently working on A Research Paper **in Image processing** -->
