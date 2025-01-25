@@ -1,4 +1,4 @@
-![github_gif]([https://github.com/dsatyam09/dsatyam09/blob/main/wowo.gif?raw=true])
+![github_gif](https://github.com/dsatyam09/dsatyam09/assets/88971930/44c6a3f4-b208-41f7-86a2-8436d4f269ba)
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsatyam09&label=Profile%20views&color=0e75b6&style=flat" alt="dsatyam09" /> </p>
 <h1 align="left">Hi ✌️, </h1>
