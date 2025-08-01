@@ -1,6 +1,8 @@
-<!-- Header GIF -->
+<!-- Header Video -->
 <p align="center">
-  <img src="https://github.com/dsatyam09/dsatyam09/assets/88971930/44c6a3f4-b208-41f7-86a2-8436d4f269ba" width="100%" alt="header banner gif"/>
+  <video autoplay loop muted playsinline width="100%">
+    <source src="https://github.com/dsatyam09/dsatyam09/blob/main/githubwelcome.mp4" type="video/mp4" />
+  </video>
 </p>
 
 <p align="center">
@@ -19,10 +21,12 @@
 - 🔎 Building Neural Scene Representations, Vision-Language Models & Diffusion pipelines  
 - ⚽ Soccer addict, sci-fi binge-watcher, coffee-powered coder  
 
-<!-- GIF Corner: a warm “Hello” and “Funny guy right here” to put a smile on their face -->
+---
+
+<!-- GIF Corner: warm welcome -->
 <p align="center">
-  <img src="https://media.giphy.com/media/your-hello-gif.gif" width="300" alt="Hello Everybody"/>  
-  <img src="https://media.giphy.com/media/your-funny-guy-gif.gif" width="300" alt="Funny guy right here"/>
+  <img src="https://media.giphy.com/media/your-hello-gif.gif" width="300" alt="Hello Everybody" style="margin-right:20px;" />
+  <img src="https://media.giphy.com/media/your-funny-guy-gif.gif" width="300" alt="Funny guy right here" style="margin-left:20px;" />
 </p>
 
 ---
@@ -45,14 +49,19 @@
 
 ---
 
-### 🎬 Embedding Your MP4 Loop
+### 🤝 Let’s Connect
 
-1. **Upload** your `your-loop.mp4` into the same `assets/` folder where `README.md` lives.
-2. **Embed** it with this snippet:
+<p align="center">
+  <a href="https://linkedin.com/in/satyam-dubey"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/dsatyam09"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+  <a href="https://kaggle.com/prosad123"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
+  <a href="https://instagram.com/satyam.dubey09"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+</p>
 
-   ```html
-   <p align="center">
-     <video autoplay loop muted playsinline width="300">
-       <source src="assets/your-loop.mp4" type="video/mp4" />
-     </video>
-   </p>
+📫 **satyamdubey5302@gmail.com**
+
+---
+
+<p align="center">
+  <i>“I’ve fixed that bug fourteen times—turns out I misplaced a curly brace. Classic me!”</i>
+</p>
