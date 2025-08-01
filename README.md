@@ -1,8 +1,6 @@
-<!-- Header Video -->
+<!-- Header GIF -->
 <p align="center">
-  <video autoplay loop muted playsinline width="100%">
-    <source src="https://cdn.jsdelivr.net/gh/dsatyam09/dsatyam09@main/githubwelcome.mp4" type="video/mp4" />
-  </video>
+  <img src="https://raw.githubusercontent.com/dsatyam09/dsatyam09/main/ai_authentication_satyam%20(2)%20(1).gif" width="100%" alt="header banner gif"/>
 </p>
 
 <p align="center">
@@ -61,5 +59,5 @@
 ---
 
 <p align="center">
-  <i>“Spent three hours tuning my pipeline’s autoscaling—only to discover I’d typo’d the region. Welcome to MLOps: where typos cost you $$$.”</i>
+  <i>“Spent three hours tuning my pipeline’s autoscaling - only to discover I’d typo’d the region. Welcome to MLOps where typos cost you $$$.”</i>
 </p>
