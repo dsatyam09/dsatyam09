@@ -1,7 +1,7 @@
 <!-- Header Video -->
 <p align="center">
   <video autoplay loop muted playsinline width="100%">
-    <source src="https://github.com/dsatyam09/dsatyam09/blob/main/githubwelcome.mp4" type="video/mp4" />
+    <source src="https://raw.githubusercontent.com/dsatyam09/dsatyam09/main/githubwelcome.mp4" type="video/mp4" />
   </video>
 </p>
 
@@ -19,14 +19,14 @@
 - 🎓 **MS Data Science** @ Indiana University Bloomington  
 - 💼 Ex-Data Scientist @ Jio Institute; Research Intern @ ISI Kolkata, EY  
 - 🔎 Building Neural Scene Representations, Vision-Language Models & Diffusion pipelines  
-- ⚽ Soccer addict, sci-fi binge-watcher, coffee-powered coder  
+- ⚽ Soccer addict, sci-fi binge-watcher, coffee-fueled MLOps tinkerer  
 
 ---
 
-<!-- GIF Corner: warm welcome -->
+<!-- GIF Corner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/your-hello-gif.gif" width="300" alt="Hello Everybody" style="margin-right:20px;" />
-  <img src="https://media.giphy.com/media/your-funny-guy-gif.gif" width="300" alt="Funny guy right here" style="margin-left:20px;" />
+  <img src="https://media.giphy.com/media/cnE8RvRxoAVXgCIxYV/giphy.gif" width="320" alt="Hello Everybody" style="margin-right:24px;" />
+  <img src="https://media.giphy.com/media/3oEduUJgrJnTH093yw/giphy.gif" width="320" alt="Funny guy right here" style="margin-left:24px;" />
 </p>
 
 ---
@@ -63,5 +63,5 @@
 ---
 
 <p align="center">
-  <i>“I’ve fixed that bug fourteen times—turns out I misplaced a curly brace. Classic me!”</i>
+  <i>“Spent 2 hours debugging my MLOps pipeline—only to realize I’d been applying configs to the wrong cluster. Data science needs better GPS!”</i>
 </p>
