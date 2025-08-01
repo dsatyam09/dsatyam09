@@ -19,6 +19,12 @@
 - 🔎 Building Neural Scene Representations, Vision-Language Models & Diffusion pipelines  
 - ⚽ Soccer addict, sci-fi binge-watcher, coffee-powered coder  
 
+<!-- GIF Corner: a warm “Hello” and “Funny guy right here” to put a smile on their face -->
+<p align="center">
+  <img src="https://media.giphy.com/media/your-hello-gif.gif" width="300" alt="Hello Everybody"/>  
+  <img src="https://media.giphy.com/media/your-funny-guy-gif.gif" width="300" alt="Funny guy right here"/>
+</p>
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -31,52 +37,22 @@
 
 ---
 
-### 📊 Fancy GitHub Metrics
+### 📊 Top Languages
 
 <p align="center">
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsatyam09&theme=radical&hide_border=true" alt="Streak Stats" width="45%" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsatyam09&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
-</p>
-
-<p align="center">
-  <!-- Contribution Calendar -->
-  <img src="https://ghchart.rshah.org/dsatyam09" alt="Contribution Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsatyam09&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
 
-### 🎬 GIF Corner
+### 🎬 Embedding Your MP4 Loop
 
-<p align="center">
-  <!-- Your original two funny GIFs -->
-  <img src="https://media.giphy.com/media/cnE8RvRxoAVXgCIxYV/giphy.gif" width="200" style="margin-right:20px;" alt="funny robot 1"/>
-  <img src="https://media.giphy.com/media/3oEduUJgrJnTH093yw/giphy.gif" width="200" style="margin-left:20px;" alt="funny robot 2"/>
-</p>
+1. **Upload** your `your-loop.mp4` into the same `assets/` folder where `README.md` lives.
+2. **Embed** it with this snippet:
 
-<p align="center">
-  <!-- Placeholder for your custom “slow” GIF -->
-  <img src="https://github.com/dsatyam09/dsatyam09/raw/main/assets/your-slow-gif.gif" width="200" alt="custom slow GIF"/>
-</p>
-
----
-
-### 🤝 Let’s Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/satyam-dubey"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/dsatyam09"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
-  <a href="https://kaggle.com/prosad123"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
-  <a href="https://instagram.com/satyam.dubey09"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-</p>
-
-📫 **satyamdubey5302@gmail.com**
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" />
-  <br/>
-  <i>“Sometimes the best bug fix is a cup of coffee and an existential crisis.”</i>
-</p>
+   ```html
+   <p align="center">
+     <video autoplay loop muted playsinline width="300">
+       <source src="assets/your-loop.mp4" type="video/mp4" />
+     </video>
+   </p>
