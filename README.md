@@ -1,7 +1,7 @@
 <!-- Header Video -->
 <p align="center">
   <video autoplay loop muted playsinline width="100%">
-    <source src="https://raw.githubusercontent.com/dsatyam09/dsatyam09/main/githubwelcome.mp4" type="video/mp4" />
+    <source src="https://cdn.jsdelivr.net/gh/dsatyam09/dsatyam09@main/githubwelcome.mp4" type="video/mp4" />
   </video>
 </p>
 
@@ -18,10 +18,8 @@
 
 - 🎓 **MS Data Science** @ Indiana University Bloomington  
 - 💼 Ex-Data Scientist @ Jio Institute; Research Intern @ ISI Kolkata, EY  
-- 🔎 Building Neural Scene Representations, Vision-Language Models & Diffusion pipelines  
+- 🔎 Building Neural Scene Reps, Vision-Language Models & Diffusion pipelines  
 - ⚽ Soccer addict, sci-fi binge-watcher, coffee-fueled MLOps tinkerer  
-
----
 
 <!-- GIF Corner -->
 <p align="center">
@@ -63,5 +61,5 @@
 ---
 
 <p align="center">
-  <i>“Spent 2 hours debugging my MLOps pipeline—only to realize I’d been applying configs to the wrong cluster. Data science needs better GPS!”</i>
+  <i>“Spent three hours tuning my pipeline’s autoscaling—only to discover I’d typo’d the region. Welcome to MLOps: where typos cost you $$$.”</i>
 </p>
