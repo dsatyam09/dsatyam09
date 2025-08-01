@@ -34,15 +34,30 @@
 ### 📊 Fancy GitHub Metrics
 
 <p align="center">
-  <!-- Stars Over Time -->
-  <img src="https://streak-stats.demolab.com?user=dsatyam09&theme=radical" alt="Streak Stats" width="45%" />
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsatyam09&theme=radical&hide_border=true" alt="Streak Stats" width="45%" />
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsatyam09&layout=compact&theme=radical" alt="Top Langs" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsatyam09&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
-  <!-- Contribution Heatmap -->
-  <img src="https://github.com/dsatyam09.png?tab=contributions" alt="Contribution Graph" />
+  <!-- Contribution Calendar -->
+  <img src="https://ghchart.rshah.org/dsatyam09" alt="Contribution Chart" />
+</p>
+
+---
+
+### 🎬 GIF Corner
+
+<p align="center">
+  <!-- Your original two funny GIFs -->
+  <img src="https://media.giphy.com/media/cnE8RvRxoAVXgCIxYV/giphy.gif" width="200" style="margin-right:20px;" alt="funny robot 1"/>
+  <img src="https://media.giphy.com/media/3oEduUJgrJnTH093yw/giphy.gif" width="200" style="margin-left:20px;" alt="funny robot 2"/>
+</p>
+
+<p align="center">
+  <!-- Placeholder for your custom “slow” GIF -->
+  <img src="https://github.com/dsatyam09/dsatyam09/raw/main/assets/your-slow-gif.gif" width="200" alt="custom slow GIF"/>
 </p>
 
 ---
